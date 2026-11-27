@@ -100,3 +100,30 @@ make clean
 
 Este comando elimina los objetos, la biblioteca y los ejecutables.
 Para volver a utilizarlos, ejecutar make all.
+
+
+## Problemas frecuentes
+
+### El cliente no puede conectarse
+
+Comprobar que el servidor está iniciado, que la dirección IPv4
+es correcta y que el puerto TCP 6666 permite conexiones.
+Si ambos programas se ejecutan en el mismo Codespace, utilizar:
+
+```bash
+./client S01E01
+```
+
+### El servidor indica que el puerto está ocupado
+
+Puede haber otra instancia del servidor ejecutándose.
+Detener la instancia anterior mediante SIGTERM antes de iniciar
+una nueva. No es necesario cambiar el puerto del proyecto.
+
+### Los ejecutables no existen
+
+Si se ejecutó make clean, volver a compilarlos:
+
+```bash
+make all
+```
