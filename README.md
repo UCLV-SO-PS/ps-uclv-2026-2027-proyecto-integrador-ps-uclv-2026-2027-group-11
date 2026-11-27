@@ -7,13 +7,14 @@ Carrera: Ciencias de la Computación, tercer año.
 
 - Luis Manuel Calero Barroso.
 - Liannah Maria Perez Perez.
-- Tercer integrante: pendiente de confirmar antes de la entrega.
+- Adriana Caridad Castillo Fleites.
+- Gabriela Capiro Rojas.
 
-El equipo trabaja de forma conjunta en el diseño, la implementación, la revisión
-y las pruebas. Las sesiones se realizan utilizando la computadora de Luis
-Manuel, ya que no todos los integrantes disponen de un equipo propio. Los
-commits se registran desde su cuenta; el trabajo se organiza de manera
-colaborativa.
+El equipo trabaja de forma conjunta en el diseño, la implementación,
+la revisión y las pruebas. Las sesiones se realizan utilizando la
+computadora de Luis Manuel, ya que no todos los integrantes disponen
+de un equipo propio. Cada integrante registra sus aportes con su
+cuenta de GitHub desde la computadora compartida.
 
 ## Qué hace el programa
 
