@@ -10,6 +10,8 @@ Carrera: Ciencias de la Computación, tercer año.
 - Adriana Caridad Castillo Fleites.
 - Gabriela Capiro Rojas.
 
+### Nota: 5
+
 El equipo trabaja de forma conjunta en el diseño, la implementación,
 la revisión y las pruebas. Las sesiones se realizan utilizando la
 computadora de Luis Manuel, ya que no todos los integrantes disponen
